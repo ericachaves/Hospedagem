@@ -1,0 +1,62 @@
+.titulo {
+    color: darkmagenta;
+    text-align: center;
+}
+
+.fundo {
+    background-color: lavenderblush;
+}
+
+.links {
+    font-size: 150%;
+    color: palevioletred;
+    text-decoration: none;
+}
+
+.botoes {
+    font-size: 100%;
+    width: 200px;
+    color: palevioletred;
+    border: solid palevioletred;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+header {
+    width: 100%;
+}
+
+.image-header {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+nav {
+    text-align:center;
+}
+
+.bloco {
+    font-size: 100%;
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.input-text {
+    border-radius: 8px;
+    width: 350px;
+    display: block;
+    padding: 2px; 
+}
+
+.table-bordered {
+    color: darkmagenta;
+    border: 5px solid;
+}
+
+tr:hover {
+    background-color: white;
+}
