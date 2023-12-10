@@ -2,7 +2,7 @@ Hospedagem
 
 *Status do projeto: Em desenvolvimento
 
-*Tecnologias que serão aplicadas: JavaWeb com uso de API, CSS, HTML
+*Tecnologias que serão aplicadas: JavaWeb com uso de API Rest e banco de dados MySQL, CSS, HTML
 
 *Time de desenvolvedores: Erica Chaves
 
